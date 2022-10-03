@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/KARANTA89621742" target="blank"><img src="[https://img.shields.io/twitter/follow/KARANTA89621742?logo=twitter&style=for-the-badge](https://img.shields.io/badge/linkdin-followers-blue)" alt="KARANTA89621742" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/karan-talwar-8aa913195/" target="blank"><img src="https://img.shields.io/linkedin/follow/karan-talwar-8aa913195?logo=linkdin&style=for-the-badge" alt="karan-talwar-8aa913195" /></a> </p>
-
 - 🔭 I’m currently working on [implementing the research paper "Learning Enriched Features for Real Image Restoration and Enhancement".](https://arxiv.org/abs/2003.06792v2)
 
 - 🌱 I’m currently learning and improving in **Tensorflow, Pytorch, Azure, mongoDB, mariaDB, Towhee and Pytesseract(OCR).**
