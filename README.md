@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kt2001" alt="kt2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/KARANTA89621742" target="blank"><img src="https://img.shields.io/twitter/follow/KARANTA89621742?logo=twitter&style=for-the-badge" alt="KARANTA89621742" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KARANTA89621742" target="blank"><img src="[https://img.shields.io/twitter/follow/KARANTA89621742?logo=twitter&style=for-the-badge](https://img.shields.io/badge/linkdin-followers-blue)" alt="KARANTA89621742" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/karan-talwar-8aa913195/" target="blank"><img src="https://img.shields.io/linkedin/follow/karan-talwar-8aa913195?logo=linkdin&style=for-the-badge" alt="karan-talwar-8aa913195" /></a> </p>
 
