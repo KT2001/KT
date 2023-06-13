@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/karanta89621742" target="blank"><img src="https://img.shields.io/twitter/follow/karanta89621742?logo=twitter&style=for-the-badge" alt="karanta89621742" /></a> </p>
 
-- 🔭 I’m currently working on [implementing the research paper "Learning Enriched Features for Real Image Restoration and Enhancement".](https://arxiv.org/abs/2003.06792v2)
+- 🔭 I’m currently working on enhancing my knowledge about python, Data Analytics and Data structures and algorithms.
 
 - 🌱 I’m currently learning and improving in **Tensorflow, Pytorch, Azure, mongoDB, mariaDB, Towhee and Pytesseract(OCR).**
 
